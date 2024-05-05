@@ -2,8 +2,8 @@ default: build
 
 # You must modify it to yourself information
 AUTHOR=guguducken
-REPOSITORY=action-go-template
-DESCRIPTION=A template repository for creating action written in go language.
+REPOSITORY=template-test
+DESCRIPTION=repo for testing action go template
 ICON=arrow-up
 COLOR=blue
 

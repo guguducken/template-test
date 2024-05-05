@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/guguducken/action-go-template/pkg/github"
+	"github.com/guguducken/template-test/pkg/github"
 	"gopkg.in/yaml.v3"
 )
 

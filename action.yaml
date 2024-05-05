@@ -1,0 +1,16 @@
+name: template-test
+author: guguducken
+description: repo for testing action go template
+inputs:
+    access-key:
+        description: The access key used to access GitHub
+        required: true
+outputs:
+    test-key:
+        description: The key used to access GitHub
+runs:
+    using: docker
+    image: Dockerfile
+branding:
+    icon: arrow-up
+    color: blue

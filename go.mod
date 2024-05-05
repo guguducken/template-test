@@ -1,4 +1,4 @@
-module github.com/guguducken/action-go-template
+module github.com/guguducken/template-test
 
 go 1.21.5
 
